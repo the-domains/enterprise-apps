@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Enterprise Apps]]></title>
+        <description><![CDATA[Enterprise Apps]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 13:28:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“Think happy” Success depends
+on it. Think “Voices” ]]></title>
+            <description><![CDATA[<article><h1>“Think happy” Success depends
+on it. Think “Voices” </h1><h2>The Happiness Factor</h2><p>Let us face it when the
+workforce is not happy, productivity will fall and it is a very good indicator
+the enterprise has problems. Surprisingly it’s not usually a remuneration issue
+or even the difficult market conditions that are the main drivers of their
+unhappiness. It is more likely to be the tiring and inefficient business
+processes, bad communication and poor customer sales support that are going to
+send them over the edge. Add to this poor management decisions and working
+conditions and before you know, its rocketing staff turnover, poor sales and
+falling productivity. Trust me when I say a happy workforce is a productive
+workforce and a productive workforce is usually a profitable enterprise. Thus
+it also follows that in today’s fast changing economy a positive and engaged
+workforce will help deliver the competitive edge. You do not go to war with an
+army that is ready to join the other side and you do not want a business that
+can’t identify its weaknesses or rapidly change to marketing conditions. It is
+a foolish business leader that cannot recognize that happiness in the workforce
+is critical to organizational and market success.</p></article>]]></description>
+            <link>undefinedthink-happy-success-depends-on-it-think-voices/index.html</link>
+            <guid isPermaLink="false">2c948cb4-69dc-4a2a-9c90-2f22837d9fef</guid>
+            <pubDate>Tue, 15 Dec 2015 13:27:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
