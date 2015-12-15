@@ -2,10 +2,20 @@
     <channel>
         <title><![CDATA[Enterprise Apps]]></title>
         <description><![CDATA[Enterprise Apps]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enterprise-apps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 13:28:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 13:58:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enterprise-apps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lack of Mobilization of
+Enterprises ]]></title>
+            <description><![CDATA[<article><h1>Lack of Mobilization of
+Enterprises </h1><p>THE ENTERPRISE APPS MARKET IS EXPECTED TO REACH $63 BILLION
+BY 2020.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab28a81c87f0d74a01f15410785c2e2899ce5d3e.png"></article>]]></description>
+            <link>https://thegrid.ai/enterprise-apps/70ba79cf-ddbc-4399-ad2e-cbf0a248317f/index.html</link>
+            <guid isPermaLink="false">70ba79cf-ddbc-4399-ad2e-cbf0a248317f</guid>
+            <pubDate>Tue, 15 Dec 2015 13:58:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“Think happy” Success depends
 on it. Think “Voices” ]]></title>
@@ -26,7 +36,7 @@ army that is ready to join the other side and you do not want a business that
 can’t identify its weaknesses or rapidly change to marketing conditions. It is
 a foolish business leader that cannot recognize that happiness in the workforce
 is critical to organizational and market success.</p></article>]]></description>
-            <link>undefinedthink-happy-success-depends-on-it-think-voices/index.html</link>
+            <link>https://thegrid.ai/enterprise-apps/think-happy-success-depends-on-it-think-voices/index.html</link>
             <guid isPermaLink="false">2c948cb4-69dc-4a2a-9c90-2f22837d9fef</guid>
             <pubDate>Tue, 15 Dec 2015 13:27:55 GMT</pubDate>
         </item>
