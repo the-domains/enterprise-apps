@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Apps to make a success of your company
-datePublished: '2015-12-15T13:27:55.196Z'
-dateModified: '2015-12-15T08:36:32.584Z'
+datePublished: '2015-12-16T16:05:18.252Z'
+dateModified: '2015-12-16T16:05:01.734Z'
 title: "“Think happy” Success depends\non it. Think “Voices” "
 author: []
+sourcePath: _posts/2015-12-15-think-happy-success-depends-on-it-think-voices.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-think-happy-success-depends-on-it-think-voices.md
-published: true
 url: think-happy-success-depends-on-it-think-voices/index.html
 _type: Article
 
@@ -29,7 +29,7 @@ on it. Think "Voices"
 
 ## 
 
-The Happiness Factor
+# The Happiness Factor
 
 Let us face it when the
 workforce is not happy, productivity will fall and it is a very good indicator
@@ -93,8 +93,8 @@ like they can grow, develop and thrive in their work. You want your employees at
 the end of the day to be happy and not depleted with energy for their family
 life and hobbies
 
-So how do you
-do this?
+**So how do you
+do this?**
 
 Building and monitoring and
 influencing happiness is not an easy task yet in today's fast paced mobilized
@@ -103,7 +103,7 @@ are happy. CAF have developed an application called Voices, specifically
 engineered to address the very challenge of managing and maintaining the
 happiness factor. 
 
-So what is Voices?
+**So what is Voices?**
 
 This is a smart enterprise
 application that CAF have developed that will enable and address the key issues
@@ -139,10 +139,6 @@ You have the ability to
 optionally ask your employees for additional data so that you can filter down
 feedback to groups of related individuals and identify problem areas early.
 
-[][0]
-
-[\[1\]][0]
-
 You can create up to four
 customisable filter categories using the simplified admin portal and choose as
 many options in each category as you need to suit your business needs.
@@ -172,9 +168,8 @@ required to better navigate our success and build a very happy company.
 To get more information and your free
 trial go to: 
 
-[][1]
+[][0]
 
-https://angeandgerrys.com/voices.html
+https://angeandgerrys.com/voices.html                                   
 
-[0]: 2c948cb4-69dc-4a2a-9c90-2f22837d9fef#_ftn1
-[1]: https://angeandgerrys.com/voices.html
+[0]: https://angeandgerrys.com/voices.html
