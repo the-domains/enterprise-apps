@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: How we can help
-datePublished: '2015-12-15T19:44:10.701Z'
-dateModified: '2015-12-15T18:04:51.661Z'
+datePublished: '2015-12-16T12:10:49.253Z'
+dateModified: '2015-12-15T20:43:11.842Z'
 title: 'The message is Clear!'
 author: []
+sourcePath: _posts/2015-12-15-the-message-is-clear.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-the-message-is-clear.md
-published: true
 url: the-message-is-clear/index.html
 _type: Article
 
