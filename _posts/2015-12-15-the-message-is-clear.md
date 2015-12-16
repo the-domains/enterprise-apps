@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How we can help
-datePublished: '2015-12-16T16:07:27.965Z'
-dateModified: '2015-12-16T16:07:05.152Z'
+datePublished: '2015-12-16T16:18:15.496Z'
+dateModified: '2015-12-16T16:17:49.299Z'
 title: 'The message is Clear!'
 author: []
 sourcePath: _posts/2015-12-15-the-message-is-clear.md
