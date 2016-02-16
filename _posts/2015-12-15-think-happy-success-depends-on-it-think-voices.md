@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Apps to make a success of your company
-datePublished: '2015-12-16T16:05:18.252Z'
-dateModified: '2015-12-16T16:05:01.734Z'
+datePublished: '2016-02-16T09:31:45.835Z'
+dateModified: '2016-02-16T09:31:44.057Z'
 title: "“Think happy” Success depends\non it. Think “Voices” "
 author: []
 sourcePath: _posts/2015-12-15-think-happy-success-depends-on-it-think-voices.md
@@ -22,12 +22,8 @@ url: think-happy-success-depends-on-it-think-voices/index.html
 _type: Article
 
 ---
-# 
-
-"Think happy" Success depends
+# "Think happy" Success depends
 on it. Think "Voices" 
-
-## 
 
 # The Happiness Factor
 
@@ -51,7 +47,7 @@ is critical to organizational and market success.
 Research is demonstrating
 that as individuals become happier, they are more loyal, compassionate, creative,
 energetic, financially successful, emotionally and physically healthy, etc.,
-and there cant be a better strategy goal than ensuring or improving the
+and there cant b​e a better strategy goal than ensuring or improving the
 happiness of your workforce. Remember key workers are very expensive to
 replace, so paying attention and investing in your happiness factor is not an
 option, it is essential. Promoting and investing in happiness in an
@@ -157,7 +153,7 @@ Installing new applications or work
 methodology normally carries with it risk married to costs, yet the good news
 is CAF's Voices enterprise application which can be installed within a few
 days, has fractional costs and virtually negligible risk, so is it not time to
-find out just how happy your people are.
+find ​out just how happy your people are.
 
 In addition to the benefits of
 powerful engagement that Voices delivers, the real management challenge is how
